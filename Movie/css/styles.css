@@ -1,0 +1,34 @@
+.radio1 {
+  display: none;
+}
+
+.radio2 {
+  display: none;
+}
+
+.radio3 {
+  display: none;
+}
+
+.radio4 {
+  display: none;
+}
+
+.Flamingo {
+  display: none;
+}
+.show {
+  display: show;
+}
+
+.hide {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
